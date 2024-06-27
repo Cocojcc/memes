@@ -1,0 +1,426 @@
+[
+	{
+		"name": "Emoji",
+		"type": "emoji",
+		"items": [
+			{
+				"key": "",
+				"val": "😀"
+			},
+			{
+				"key": "",
+				"val": "🥹"
+			},
+			{
+				"key": "",
+				"val": "🥺"
+			},
+			{
+				"key": "",
+				"val": "😆"
+			},
+			{
+				"key": "",
+				"val": "😅"
+			},
+			{
+				"key": "",
+				"val": "😂"
+			},
+			{
+				"key": "",
+				"val": "🤣"
+			},
+			{
+				"key": "",
+				"val": "😊"
+			},
+			{
+				"key": "",
+				"val": "😭"
+			},
+			{
+				"key": "",
+				"val": "😉"
+			},
+			{
+				"key": "",
+				"val": "🙄"
+			},
+			{
+				"key": "",
+				"val": "😬"
+			},
+			{
+				"key": "",
+				"val": "🥴"
+			},
+			{
+				"key": "",
+				"val": "🤡"
+			},
+			{
+				"key": "",
+				"val": "😍"
+			},
+			{
+				"key": "",
+				"val": "😜"
+			},
+			{
+				"key": "",
+				"val": "😎"
+			},
+			{
+				"key": "",
+				"val": "😏"
+			},
+			{
+				"key": "",
+				"val": "😕"
+			},
+			{
+				"key": "",
+				"val": "😳"
+			},
+			{
+				"key": "",
+				"val": "😨"
+			},
+			{
+				"key": "",
+				"val": "😢"
+			},
+			{
+				"key": "",
+				"val": "👀"
+			},
+			{
+				"key": "",
+				"val": "✌🏻"
+			},
+			{
+				"key": "",
+				"val": "👏"
+			},
+			{
+				"key": "",
+				"val": "👍"
+			},
+			{
+				"key": "",
+				"val": "❤️"
+			},
+			{
+				"key": "",
+				"val": "🚀"
+			},
+			{
+				"key": "",
+				"val": "🤏"
+			},
+			{
+				"key": "",
+				"val": "💯"
+			},
+			{
+				"key": "",
+				"val": "👻"
+			},
+			{
+				"key": "",
+				"val": "🤷🏻‍♂️"
+			}
+		]
+	},
+	{
+		"name": "黄豆脸",
+		"type": "image",
+		"items": [
+			{
+				"key": "weibo_sunglasses",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_sunglasses.png"
+			},
+			{
+				"key": "weibo_sad",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_sad.png"
+			},
+			{
+				"key": "weibo_clap",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_clap.png"
+			},
+			{
+				"key": "tieba_antic",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/tieba_antic.png"
+			},
+			{
+				"key": "weibo_joy",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_joy.png"
+			},
+			{
+				"key": "weibo_wink",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_wink.png"
+			},
+			{
+				"key": "weibo_kiss",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_kiss.png"
+			},
+			{
+				"key": "weibo_husky",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_husky.png"
+			},
+			{
+				"key": "weibo_grin",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_grin.png"
+			},
+			{
+				"key": "weibo_poor",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_poor.png"
+			},
+			{
+				"key": "weibo_think",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_think.png"
+			},
+			{
+				"key": "weibo_cat",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_cat.png"
+			},
+			{
+				"key": "weibo_laugh",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_laugh.png"
+			},
+			{
+				"key": "weibo_smirk",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_smirk.png"
+			},
+			{
+				"key": "wechat_face_cry",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/wechat_face_cry.png"
+			},
+			{
+				"key": "weibo_quiet",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_quiet.png"
+			},
+			{
+				"key": "weibo_lovely",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_lovely.png"
+			},
+			{
+				"key": "weibo_confused",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_confused.png"
+			},
+			{
+				"key": "tieba_agree",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/tieba_agree.png"
+			},
+			{
+				"key": "weibo_sob",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_sob.png"
+			},
+			{
+				"key": "weibo_suprised",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_suprised.png"
+			},
+			{
+				"key": "weibo_chuckle",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_chuckle.png"
+			},
+			{
+				"key": "weibo_doge",
+				"val": "https://static.luffy.cc/emoji/%E9%BB%84%E8%B1%86%E8%84%B8/weibo_doge.png"
+			}
+		]
+	},
+	{
+		"name": "Bilibili",
+		"type": "image",
+		"items": [
+			{
+				"key": "bb_thumbsup",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_thumbsup.png"
+			},
+			{
+				"key": "bb_greddy",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_greddy.png"
+			},
+			{
+				"key": "bb_face_cry",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_face_cry.png"
+			},
+			{
+				"key": "bb_chuckle",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_chuckle.png"
+			},
+			{
+				"key": "bb_antic",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_antic.png"
+			},
+			{
+				"key": "bb_doge",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_doge.png"
+			},
+			{
+				"key": "bb_tiaokan",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_tiaokan.png"
+			},
+			{
+				"key": "bb_cry",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_cry.png"
+			},
+			{
+				"key": "bb_confused",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_confused.png"
+			},
+			{
+				"key": "bb_awkward",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_awkward.png"
+			},
+			{
+				"key": "bb_rolling_eyes",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_rolling_eyes.png"
+			},
+			{
+				"key": "bb_sob",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_sob.png"
+			},
+			{
+				"key": "bb_zhoumei",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_zhoumei.png"
+			},
+			{
+				"key": "bb_flushed",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_flushed.png"
+			},
+			{
+				"key": "bb_trollface",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_trollface.png"
+			},
+			{
+				"key": "bb_dizzy_face",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_dizzy_face.png"
+			},
+			{
+				"key": "bb_miantian",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_miantian.png"
+			},
+			{
+				"key": "bb_scared",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_scared.png"
+			},
+			{
+				"key": "bb_slap",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_slap.png"
+			},
+			{
+				"key": "bb_think",
+				"val": "https://static.luffy.cc/emoji/Bilibili/bb_think.png"
+			}
+		]
+	},
+	{
+		"name": "表情包",
+		"type": "image",
+		"items": [
+			{
+				"key": "01113408",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01113408.jpg"
+			},
+			{
+				"key": "01114429",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01114429.jpg"
+			},
+			{
+				"key": "01113839",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01113839.jpg"
+			},
+			{
+				"key": "01111829",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01111829.jpg"
+			},
+			{
+				"key": "01113517",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01113517.gif"
+			},
+			{
+				"key": "01114404",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01114404.jpg"
+			},
+			{
+				"key": "14545",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/14545.png"
+			},
+			{
+				"key": "12043",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/12043.jpg"
+			},
+			{
+				"key": "1143215",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/1143215.jpg"
+			},
+			{
+				"key": "01113454",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01113454.jpg"
+			},
+			{
+				"key": "114540",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/114540.jpg"
+			},
+			{
+				"key": "01105425",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01105425.jpg"
+			},
+			{
+				"key": "1113444",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/1113444.jpg"
+			},
+			{
+				"key": "厉害了，我的哥",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%8E%89%E5%AE%B3%E4%BA%86%EF%BC%8C%E6%88%91%E7%9A%84%E5%93%A5.gif"
+			},
+			{
+				"key": "01095623",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01095623.jpg"
+			},
+			{
+				"key": "201100725",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/201100725.jpg"
+			},
+			{
+				"key": "1114531",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/1114531.jpg"
+			},
+			{
+				"key": "201095902",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/201095902.jpg"
+			},
+			{
+				"key": "01113828",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01113828.gif"
+			},
+			{
+				"key": "1113846",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/1113846.jpg"
+			},
+			{
+				"key": "01114451",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01114451.jpg"
+			},
+			{
+				"key": "想不到吧",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%83%B3%E4%B8%8D%E5%88%B0%E5%90%A7.jpg"
+			},
+			{
+				"key": "01110652",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/01110652.jpg"
+			},
+			{
+				"key": "43404",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/43404.jpg"
+			},
+			{
+				"key": "1114550",
+				"val": "https://static.luffy.cc/emoji/%E8%A1%A8%E6%83%85%E5%8C%85/1114550.jpg"
+			}
+		]
+	}
+]
